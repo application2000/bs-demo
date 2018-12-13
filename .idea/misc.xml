@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Behat">
+    <behat_settings>
+      <BehatSettings />
+      <behat_by_interpreter interpreter_id="122066a3-076c-49be-a4ee-bec8eb0a8728" behat_path="/home/vagrant/.composer/vendor/behat/behat/bin/behat" />
+    </behat_settings>
+  </component>
+  <component name="BehatInfoCache">
+    <behat_settings>
+      <info name="Interpreter: Remote PHP 7" version="3.3.0" />
+    </behat_settings>
+  </component>
+  <component name="ComposerJsonPluginSettings">
+    <unboundedVersionInspectionSettings>
+      <excludedPackages />
+    </unboundedVersionInspectionSettings>
+    <customRepositories />
+    <composerUpdateOptions />
+  </component>
+  <component name="JSLintConfiguration" json="true">
+    <option browser="true" />
+    <option devel="true" />
+    <option maxerr="50" />
+    <option multivar="true" />
+    <option globals="window,document,_,jQuery,L" />
+    <option this="true" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="PhpTestFrameworkVersionCache">
+    <tools_cache>
+      <tool tool_name="PHPUnit">
+        <cache>
+          <versions>
+            <info id="Local" version="7.3.0" />
+          </versions>
+        </cache>
+      </tool>
+    </tools_cache>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Vue</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Angular</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="TsLintConfiguration" allowJs="true" />
+  <component name="VagrantProjectSettings">
+    <option name="instanceFolder" value="$USER_HOME$/boxes/homestead" />
+    <option name="provider" value="" />
+  </component>
+</project>

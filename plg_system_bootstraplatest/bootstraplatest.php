@@ -11,7 +11,7 @@ defined('_JEXEC') or die;
 /**
  * Bootstrap 3 Template System Plugin
  */
-class PlgSystemBootstrap3 extends JPlugin
+class PlgSystemBootstraplatest extends JPlugin
 {
 	/**
 	 * Application object
@@ -43,12 +43,12 @@ class PlgSystemBootstrap3 extends JPlugin
 		// Register listeners for JHtml helpers
 		if (!JHtml::isRegistered('bootstrap.loadCss'))
 		{
-			JHtml::register('bootstrap.loadCss', 'PlgSystemBootstrap3::loadCss');
+			JHtml::register('bootstrap.loadCss', 'PlgSystemBootstraplatest::loadCss');
 		}
 
 		if (!JHtml::isRegistered('bootstrap.carousel'))
 		{
-			JHtml::register('bootstrap.carousel', 'PlgSystemBootstrap3::carousel');
+			JHtml::register('bootstrap.carousel', 'PlgSystemBootstraplatest::carousel');
 		}
 	}
 
